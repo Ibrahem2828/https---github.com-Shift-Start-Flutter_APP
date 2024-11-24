@@ -50,6 +50,7 @@ class _MyAppState extends State<MyApp> {
             theme: ThemeData(),
 
             debugShowCheckedModeBanner: false,
+            
             // home:SettingsScreen()
           );
         }));
